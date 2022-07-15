@@ -1,5 +1,4 @@
 import com.rabbitmq.client.ConnectionFactory
-import javax.sound.sampled.AudioFormat.Encoding
 
 class Send {
     val queueName: String = "hello"
